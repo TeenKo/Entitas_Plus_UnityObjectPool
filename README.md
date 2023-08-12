@@ -1,1 +1,1 @@
-# Entitas_Plus_UnityObjectPool
+Implemented unity object pool with ECS Entitas
